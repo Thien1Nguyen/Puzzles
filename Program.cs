@@ -1,11 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-    Random rand = new Random(); // couldnt get this to be a global
+// random util
+Random rand = new Random(); // couldnt get this to be a global
 // Coin Flip
 
-static string CoinFlip()
+string CoinFlip()
 {
-    Random rand = new Random();
-
     if(rand.Next(2) == 0){
         return "heads";
     }
@@ -19,10 +18,8 @@ Console.WriteLine(CoinFlip());
 
 // Dice Roll
 
-static int DiceRoll(int sides)
+int DiceRoll(int sides)
 {
-    Random rand = new Random();
-
     return rand.Next(1,sides + 1);
 }
 
@@ -30,9 +27,8 @@ Console.WriteLine(DiceRoll(6));
 
 // Stat Roll
 
-static List<int> StatRoll(int rolls)
+List<int> StatRoll(int rolls)
 {
-    Random rand = new Random();
     List<int> StatSheet = new List<int>();
     int max = 0;
     int temp = 0;
@@ -51,7 +47,7 @@ static List<int> StatRoll(int rolls)
 StatRoll(4);
 
 // Roll Until....
-static string RollUntil(int target)
+string RollUntil(int target)
 {
     if (target > 6){
         return "Target is out of bound";

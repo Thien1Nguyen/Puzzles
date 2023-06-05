@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TNguy\\OneDrive\\Documents\\CodingDojoWebFun\\CSharp\\Puzzles\\Puzzles.csproj": {}
+    "c:\\Users\\TNguy\\OneDrive\\Documents\\CodingDojoWebFun\\CSharp\\Puzzles\\Puzzles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TNguy\\OneDrive\\Documents\\CodingDojoWebFun\\CSharp\\Puzzles\\Puzzles.csproj": {
+    "c:\\Users\\TNguy\\OneDrive\\Documents\\CodingDojoWebFun\\CSharp\\Puzzles\\Puzzles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TNguy\\OneDrive\\Documents\\CodingDojoWebFun\\CSharp\\Puzzles\\Puzzles.csproj",
+        "projectUniqueName": "c:\\Users\\TNguy\\OneDrive\\Documents\\CodingDojoWebFun\\CSharp\\Puzzles\\Puzzles.csproj",
         "projectName": "Puzzles",
-        "projectPath": "C:\\Users\\TNguy\\OneDrive\\Documents\\CodingDojoWebFun\\CSharp\\Puzzles\\Puzzles.csproj",
+        "projectPath": "c:\\Users\\TNguy\\OneDrive\\Documents\\CodingDojoWebFun\\CSharp\\Puzzles\\Puzzles.csproj",
         "packagesPath": "C:\\Users\\TNguy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TNguy\\OneDrive\\Documents\\CodingDojoWebFun\\CSharp\\Puzzles\\obj\\",
+        "outputPath": "c:\\Users\\TNguy\\OneDrive\\Documents\\CodingDojoWebFun\\CSharp\\Puzzles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TNguy\\AppData\\Roaming\\NuGet\\NuGet.Config"
