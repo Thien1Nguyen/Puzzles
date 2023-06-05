@@ -1,0 +1,15 @@
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\bin\Debug\net7.0\Puzzles.exe
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\bin\Debug\net7.0\Puzzles.deps.json
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\bin\Debug\net7.0\Puzzles.runtimeconfig.json
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\bin\Debug\net7.0\Puzzles.dll
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\bin\Debug\net7.0\Puzzles.pdb
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\obj\Debug\net7.0\Puzzles.csproj.AssemblyReference.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\obj\Debug\net7.0\Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\obj\Debug\net7.0\Puzzles.AssemblyInfoInputs.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\obj\Debug\net7.0\Puzzles.AssemblyInfo.cs
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\obj\Debug\net7.0\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\obj\Debug\net7.0\Puzzles.dll
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\obj\Debug\net7.0\refint\Puzzles.dll
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\obj\Debug\net7.0\Puzzles.pdb
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\obj\Debug\net7.0\Puzzles.genruntimeconfig.cache
+C:\Users\TNguy\OneDrive\Documents\CodingDojoWebFun\CSharp\Puzzles\obj\Debug\net7.0\ref\Puzzles.dll
